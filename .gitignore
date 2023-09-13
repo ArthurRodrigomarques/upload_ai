@@ -1,0 +1,4 @@
+
+upload-ai-server/node_modules/
+upload-ai-server/package-lock.json
+.env
