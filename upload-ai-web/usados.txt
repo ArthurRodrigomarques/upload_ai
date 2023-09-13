@@ -1,0 +1,5 @@
+vite com typescript
+
+Radix UI
+shadcn/ui
+tailwind CSS
